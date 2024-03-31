@@ -1,0 +1,7 @@
+.button {
+    background-color: gainsboro;
+    text-align: center;
+    border-radius: 5px;
+    width: 6rem;
+    cursor: pointer;
+}
